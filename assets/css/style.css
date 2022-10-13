@@ -66,22 +66,38 @@
 .info_top{
     width: 240px;
     height: 50px;
-    font-size: 30px;
+    font-size: 35px;
     float: left;
     padding-left: 10px ;
 }
 
 .info_top img{
-    height: 23px;
+    height: 35px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
 }
 
 #info_main{
     font-size: 40px;
     margin-left: 10px;
     
+;
+    
     
 }
 #info_main p{
     font-size: 25px;
     margin-top:10px;
+}
+
+#rij1{
+    background-color: #0063d3;
+    color: #fff;
+    margin-left: 20px;
+}
+#rij2{
+    background-color: #0063d3;
+    color: #fff;
+    margin-left: 20px;
 }
